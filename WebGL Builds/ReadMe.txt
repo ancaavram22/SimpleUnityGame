@@ -1,0 +1,2 @@
+space - jump 
+arrows - move 
